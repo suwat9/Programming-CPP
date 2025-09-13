@@ -1,7 +1,7 @@
 # Programming-CPP
 Laboratory of C++ Programming
 
-for the first year students
+For the freshy: 
 
 first program : 
 ```cpp
