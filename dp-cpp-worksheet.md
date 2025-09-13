@@ -401,8 +401,8 @@ int main() {
 
 ### Sample Input File (coin_input.txt):
 ```
-4 10
-1 3 4 5
+9 5723
+1 2 5 10 20 50 100 500 1000
 ```
 
 ### Expected Output Explanation:
