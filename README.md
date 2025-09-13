@@ -3,7 +3,7 @@ Laboratory of C++ Programming
 
 For the freshy: 
 
-first program : 
+First program : 
 ```cpp
 #include <iostream>
 using namespace std;
